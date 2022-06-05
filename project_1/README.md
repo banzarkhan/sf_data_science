@@ -8,8 +8,6 @@
 [5. Очистка данных](https://github.com/banzarkhan/sf_data_science/tree/main/project_1/README.md#Очистка-данных)  
 [6. Выводы](https://github.com/banzarkhan/sf_data_science/tree/main/project_1/README.md#Выводы)
 
-##### *для просмотра графиков рекомендуем пройти по [ссылке](https://nbviewer.org/github/banzarkhan/sf_data_science/blob/main/project_1/Project%201.ipynb?flush_cache=true)*
-
 ### Постановка задачи
 В нашем распоряжении база резюме, выгруженная с сайта поиска вакансий hh.ru.
 
@@ -43,3 +41,5 @@
 
 ## Выводы:
 ...
+
+Графики можно посмотреть по [ссылке](https://drive.google.com/drive/folders/1O67OmaR6YvitV9ed5PO7th0BbUjKDzDJ?usp=sharing) или [nbviewer.org](https://nbviewer.org/github/banzarkhan/sf_data_science/blob/main/project_1/Project%201.ipynb)
