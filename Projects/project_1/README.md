@@ -1,12 +1,12 @@
 # Проект 1. Анализ вакансий на hh.ru
 
 ## Оглавление
-[1. Постановка задачи](https://github.com/banzarkhan/sf_data_science/tree/main/project_1/README.md#Постановка-задачи)  
-[2. Исследовать структуры данных](https://github.com/banzarkhan/sf_data_science/tree/main/project_1/README.md#Исследовать-структуры-данных)  
-[3. Преобразование данных](https://github.com/banzarkhan/sf_data_science/tree/main/project_1/README.md#Преобразование-данных)  
-[4. Исследование зависимостей в данных](https://github.com/banzarkhan/sf_data_science/tree/main/project_1/README.md#Исследование-зависимостей-в-данных)  
-[5. Очистка данных](https://github.com/banzarkhan/sf_data_science/tree/main/project_1/README.md#Очистка-данных)  
-[6. Выводы](https://github.com/banzarkhan/sf_data_science/tree/main/project_1/README.md#Выводы)
+[1. Постановка задачи](https://github.com/banzarkhan/sf_data_science/tree/main/Projects/project_1/README.md#Постановка-задачи)  
+[2. Исследовать структуры данных](https://github.com/banzarkhan/sf_data_science/tree/main/Projects/project_1/README.md#Исследовать-структуры-данных)  
+[3. Преобразование данных](https://github.com/banzarkhan/sf_data_science/tree/main/Projects/project_1/README.md#Преобразование-данных)  
+[4. Исследование зависимостей в данных](https://github.com/banzarkhan/sf_data_science/tree/main/Projects/project_1/README.md#Исследование-зависимостей-в-данных)  
+[5. Очистка данных](https://github.com/banzarkhan/sf_data_science/tree/main/Projects/project_1/README.md#Очистка-данных)  
+[6. Выводы](https://github.com/banzarkhan/sf_data_science/tree/main/Projects/project_1/README.md#Выводы)
 
 ### Постановка задачи
 В нашем распоряжении база резюме, выгруженная с сайта поиска вакансий hh.ru.
